@@ -1,4 +1,4 @@
-sql_queries,
+sql_queries,pyspark_queries
 SELECT * FROM employees,
 "SELECT id, name FROM employees WHERE department = 'HR'",
 "INSERT INTO employees (id, name, department) VALUES (201, 'Alice', 'Finance')",
